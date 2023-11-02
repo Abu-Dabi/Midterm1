@@ -1,0 +1,1 @@
+with command "git rm deadfox" we can delete file
